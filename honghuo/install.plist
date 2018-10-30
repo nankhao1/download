@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hongyunyule.www</string>
+				<string>com.honghuoyule.www</string>
 				<key>bundle-version</key>
-				<string>1.0.4</string>
+				<string>1.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>未来娱乐</string>
+				<string>红火娱乐</string>
 			</dict>
 		</dict>
 	</array>
